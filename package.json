@@ -1,0 +1,23 @@
+{
+  "name": "clast",
+  "version": "1.0.0",
+  "description": "Friend Finder",
+  "main": "server.js",
+  "scripts": {
+    "start": "cd app && npm run start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roganoth/clast.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roganoth/clast/issues"
+  },
+  "homepage": "https://github.com/roganoth/clast#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "path": "^0.12.7"
+  }
+}
